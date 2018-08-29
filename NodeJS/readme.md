@@ -3,9 +3,11 @@ If it wasn't it would print out the types that were accepted.
 
 Example: 
 index.js 
+
 program: accepted!
 
 main.c
+
 program: Invaild! Valid in puts are ....
 
 
