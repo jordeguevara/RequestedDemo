@@ -9,6 +9,8 @@ program: accepted!
 
 Example2: main.c
 
-program: Invaild! Valid in puts are ....
+program: Invaild! Valid in puts are ....me instead of creating the dummy file. 
 
+TODO: use commandline to check for user input of file na
 
+Handle cases where it has more than one extension to throw exceptions to let user know 
