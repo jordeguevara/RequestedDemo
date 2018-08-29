@@ -31,8 +31,8 @@ rl.question('Enter file name: ', (file) => {
     if(isValidFile(devFile)){
     	console.log("Accepted file!");
   	}
-  	else{
-  		console.log("Invalid file!" + '\n' + "Valid files are: .js, .py, .html, .css, .rb only");
+    else{
+  	console.log("Invalid file!" + '\n' + "Valid files are: .js, .py, .html, .css, .rb only");
   	}
   
   fs.readFile(file, (err, data) => {
