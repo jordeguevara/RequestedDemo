@@ -6,7 +6,9 @@ index.js
 
 program: accepted!
 
-main.c
+==================================
+
+Example2:main.c
 
 program: Invaild! Valid in puts are ....
 
